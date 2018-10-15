@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/FBPage/precache-manifest.cbef34720f621f63e9d5bc1bf0fb05dc.js"
+  "/FBPage/precache-manifest.ce6afc8e6fcb59d7bcf2fb797de41f79.js"
 );
 
 workbox.clientsClaim();
