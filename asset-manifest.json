@@ -1,14 +1,14 @@
 {
   "main.css": "/FBPage/static/css/main.9536d5ae.chunk.css",
-  "main.js": "/FBPage/static/js/main.a7241aac.chunk.js",
-  "main.js.map": "/FBPage/static/js/main.a7241aac.chunk.js.map",
+  "main.js": "/FBPage/static/js/main.725bff99.chunk.js",
+  "main.js.map": "/FBPage/static/js/main.725bff99.chunk.js.map",
   "static/js/1.e368e09c.chunk.js": "/FBPage/static/js/1.e368e09c.chunk.js",
   "static/js/1.e368e09c.chunk.js.map": "/FBPage/static/js/1.e368e09c.chunk.js.map",
   "runtime~main.js": "/FBPage/static/js/runtime~main.ec3cba7b.js",
   "runtime~main.js.map": "/FBPage/static/js/runtime~main.ec3cba7b.js.map",
-  "static/media/style.css": "/FBPage/static/media/TrebuchetMS-400-normal.6aea92f7.woff",
+  "static/media/style.css": "/FBPage/static/media/TrebuchetMS-700-normal.61a477ad.woff2",
   "static/css/main.9536d5ae.chunk.css.map": "/FBPage/static/css/main.9536d5ae.chunk.css.map",
   "index.html": "/FBPage/index.html",
-  "precache-manifest.ce6afc8e6fcb59d7bcf2fb797de41f79.js": "/FBPage/precache-manifest.ce6afc8e6fcb59d7bcf2fb797de41f79.js",
+  "precache-manifest.3c58c4cb8bb761b550e97b2bbcff1d2f.js": "/FBPage/precache-manifest.3c58c4cb8bb761b550e97b2bbcff1d2f.js",
   "service-worker.js": "/FBPage/service-worker.js"
 }
